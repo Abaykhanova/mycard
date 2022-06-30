@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    background-color: rgb(235, 226, 223);
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.avatar {
+    border-radius: 25px;
+    width: 200px;
+    box-shadow: 4px 4px 14px rgba(0 ,0 ,0 , 0.25);
+    
+}
+
+
+.info p {
+    margin: 3px;
+
+
+}
+
+.info-text {
+    margin-left: 20px;
+    color: gray;
+    
+    
+}
+.info {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 750px;
+    margin: auto;
+   
+
+
+    
+}
+
+h1 {
+
+    font-size: 30px;
+    text-align: center;
+    
+    
+}
+
+.course {
+    background-color: rgb(247, 247, 149);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+   color: rgb(93, 95, 76);
+    
+    
+}
+
+
+
+a[href*="https://t.me/abaykhanova_fm"] {
+    background: url('telegram.png') no-repeat 100% 0;
+    background-size: 50px 50px;
+    padding: 0px 40px 50px 30px;
+   
+    
+  }
+
+  a[href*="https://instagram.com/abaykhanova_fm"] {
+    background: url('icons8-instagram-50.png') no-repeat 100% 0;
+    background-size: 50px 50px;
+    padding: 0px 40px 50px 30px;
+   
+  }
+
+  a[href*="https://github.com/Abaykhanova"] {
+    background: url('github.png') no-repeat 100% 0;
+    background-size: 50px 50px;
+    padding: 0px 40px 50px 30px;
+    
+
+   
+    
+  }
+
+  .social {
+    padding: 20px;
+    text-align: center;
+    
+    
+  }
+
+ 
+  
+
+
+.list {
+    list-style: square;
+    padding-left: 200px;
+
+    
+    
+}
+.list li {
+    margin-bottom: 10px;
+}
+
+
+h2 {
+    text-align: center;
+   
+}
+
+hr {
+    width: 75%;
+    color: gray;
+}
+
+.table {
+    width: 100%;
+    text-align: center;
+    
+  
+}
+
+.time {
+    width: 75%;
+    padding-left: 180px;
+   
+}
+
+
+
